@@ -1,0 +1,33 @@
+
+
+
+
+Instrucciones para el Juego "BlackJack Casino COYOTE"
+
+1. Puedes pedir las cartas que quieras siempre y cuando la sumatoria de sus numeros
+sea menor a 21. Para solicitar cartas presiona la tecla "A"
+
+2. Las cartas KING, QUEEN y JOTO tendr*n el valor de 10.
+
+3. Las cartas con el valor de "A", valdr*n 1 u 11 dependiendo tu juego, el sistema los ir*
+adaptando a tu conveniencia para que puedas ganar.
+
+4. La segunda jugada de dividir nace cuando tus primeras dos cartas son del mismo valor
+sea "A" y "A" o "K" y "Q", etc?tera. El juego preguntar* si deseas dividir y si es el caso,
+autom*ticamente el sistema te volver* a pedir que apuestes para la segunda jugada.
+
+5. Cuando la primera carta de la computadora sea 10, K, R, J o A, el juego te preguntar* si deseas asegurar
+que consiste en apostar una cantidad de dinero a que la computadora tendr* 21.
+Si es el caso, se te devolver* el doble de lo que apostaste al asegurar, por lo contrario
+perder*s el dinero apostado.
+
+6. En cada casino habr*n distintas cantidades como m-nimas y como m*ximas para apostar.
+
+7. El juego se compone de 9 casinos los cuales representan a las nueve preparatorias
+de la Escuela Nacional Preparatoria.
+
+8. Para ingresar a distintos casinos se requerir* como m-nimo una cantidad de dinero en la bolsa.
+
+9. Podr*s moverte libremente por el mapa, explorando por distintos casinos.
+
+10. Necesitas la cantidad indicada en la lista del mapa para poder avanzar a la siguiente prepa.
